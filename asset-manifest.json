@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gym-responsive-REACT-website/static/css/main.183d351d.css",
+    "main.js": "/gym-responsive-REACT-website/static/js/main.37835944.js",
+    "static/js/787.f2e22480.chunk.js": "/gym-responsive-REACT-website/static/js/787.f2e22480.chunk.js",
+    "static/media/gallery1.jpg": "/gym-responsive-REACT-website/static/media/gallery1.a1297684e113b20e6296.jpg",
+    "static/media/gallery2.jpg": "/gym-responsive-REACT-website/static/media/gallery2.b0770140dcba1bd2b84c.jpg",
+    "static/media/gallery3.jpg": "/gym-responsive-REACT-website/static/media/gallery3.08e90d6ed6f7496fb5de.jpg",
+    "static/media/gallery4.jpg": "/gym-responsive-REACT-website/static/media/gallery4.c7f39736f509e05c474f.jpg",
+    "static/media/team1.jpg": "/gym-responsive-REACT-website/static/media/team1.c9c259428a76f7898224.jpg",
+    "static/media/servicehome.jpg": "/gym-responsive-REACT-website/static/media/servicehome.ec6f18571cd371d7ef84.jpg",
+    "static/media/team3.jpg": "/gym-responsive-REACT-website/static/media/team3.712c061c787a78e9419b.jpg",
+    "static/media/team2.jpg": "/gym-responsive-REACT-website/static/media/team2.bb50f63a0bdb4fd8cdd5.jpg",
+    "static/media/gallery5.jpg": "/gym-responsive-REACT-website/static/media/gallery5.5a075b600b8f8c10347e.jpg",
+    "static/media/gymcontact.jpg": "/gym-responsive-REACT-website/static/media/gymcontact.cf26e60bb1ba1329a5f1.jpg",
+    "static/media/home.jpg": "/gym-responsive-REACT-website/static/media/home.61ea3a84263adcc6bdea.jpg",
+    "static/media/about.jpg": "/gym-responsive-REACT-website/static/media/about.e654cbe0f6f70e036595.jpg",
+    "index.html": "/gym-responsive-REACT-website/index.html",
+    "main.183d351d.css.map": "/gym-responsive-REACT-website/static/css/main.183d351d.css.map",
+    "main.37835944.js.map": "/gym-responsive-REACT-website/static/js/main.37835944.js.map",
+    "787.f2e22480.chunk.js.map": "/gym-responsive-REACT-website/static/js/787.f2e22480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.183d351d.css",
+    "static/js/main.37835944.js"
+  ]
+}
